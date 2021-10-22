@@ -21,7 +21,7 @@ function getGutHubProfileInfos() {
     .then(data => {
         userName.textContent = data.name
         userBio.textContent = data.bio
-        userLink.href = data.url
+        userLink.href = data.html_url
         userPhoto.src = data.avatar_url
         userNickname.textContent = data.login
     })
