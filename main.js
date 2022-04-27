@@ -1,5 +1,5 @@
 const userSocialMedias = {
-    github: 'renandrnls',
+    github: 'suicideDuck22',
     linkedin: 'in/renandrnls/',
     facebook: 'profile.php?id=100010200602377',
     instagram: 'renan_dorneles.jpg/',
